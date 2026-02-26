@@ -380,6 +380,507 @@
           "href": "http://localhost:3000/books/27"
         }
       ]
+    },
+    {
+      "title": "Life is Life",
+      "createdAt": "2025-05-03T21:45:47.205Z",
+      "updatedAt": "2025-05-03T21:45:47.205Z",
+      "id": 28,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/28"
+        }
+      ]
+    },
+    {
+      "title": "The Test Book",
+      "author": "Shakespear",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T07:18:04.266Z",
+      "updatedAt": "2025-05-04T07:18:04.266Z",
+      "id": 29,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/29"
+        }
+      ]
+    },
+    {
+      "title": "Life is Tough",
+      "author": "Anton Chekhov",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T07:18:55.056Z",
+      "updatedAt": "2025-05-04T07:18:55.056Z",
+      "id": 30,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/30"
+        }
+      ]
+    },
+    {
+      "title": "Plan B",
+      "author": "Shakespear",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T07:19:38.118Z",
+      "updatedAt": "2025-05-04T07:19:38.118Z",
+      "id": 31,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/31"
+        }
+      ]
+    },
+    {
+      "title": "Plan B",
+      "author": "Shakespear",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T07:24:57.985Z",
+      "updatedAt": "2025-05-04T07:24:57.985Z",
+      "id": 32,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/32"
+        }
+      ]
+    },
+    {
+      "title": "Life is Tough",
+      "author": "Anton Chekhov",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T07:25:30.737Z",
+      "updatedAt": "2025-05-04T07:25:30.737Z",
+      "id": 33,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/33"
+        }
+      ]
+    },
+    {
+      "title": "Plan BA",
+      "author": "Shakespear",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T07:39:19.188Z",
+      "updatedAt": "2025-05-04T07:39:19.188Z",
+      "id": 34,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/34"
+        }
+      ]
+    },
+    {
+      "title": "Life is Tough",
+      "author": "Anton Chekhov",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T12:50:58.899Z",
+      "updatedAt": "2025-05-04T12:50:58.899Z",
+      "id": 35,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/35"
+        }
+      ]
+    },
+    {
+      "title": "Life is Tougher and Tougher",
+      "author": "Anton Chekhov",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T13:00:13.077Z",
+      "updatedAt": "2025-05-04T13:00:13.077Z",
+      "id": 36,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/36"
+        }
+      ]
+    },
+    {
+      "title": "Life is Tougher and Tougher",
+      "author": "Anton Chekhov",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T13:00:37.653Z",
+      "updatedAt": "2025-05-04T13:00:37.653Z",
+      "id": 37,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/37"
+        }
+      ]
+    },
+    {
+      "title": "Life is Tougher and Tougher",
+      "author": "Anton Chekhov",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T13:00:46.605Z",
+      "updatedAt": "2025-05-04T13:00:46.605Z",
+      "id": 38,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/38"
+        }
+      ]
+    },
+    {
+      "title": "Life is Tougher and Tougher",
+      "author": "Anton Chekhov",
+      "isbn": "12345",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2025-05-04T13:00:52.686Z",
+      "updatedAt": "2025-05-04T13:00:52.686Z",
+      "id": 39,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/39"
+        }
+      ]
+    },
+    {
+      "title": "\"Satchel: The Life and Times of an American Legend\"",
+      "author": "\"Larry Tye\"",
+      "isbn": "\"812977971\"",
+      "publicationDate": "\"2010-05-04\"",
+      "createdAt": "2025-05-04T16:01:26.719Z",
+      "updatedAt": "2025-05-04T16:01:26.719Z",
+      "id": 40,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/40"
+        }
+      ]
+    },
+    {
+      "title": "\"Writing To Learn\"",
+      "author": "\"William Zinsser\"",
+      "isbn": "\"62720406\"",
+      "publicationDate": "\"1993-06-04\"",
+      "createdAt": "2025-05-04T16:01:26.738Z",
+      "updatedAt": "2025-05-04T16:01:26.738Z",
+      "id": 41,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/41"
+        }
+      ]
+    },
+    {
+      "title": "\"John Calvin: A Pilgrim's Life\"",
+      "author": "\"Herman J. Selderhuis\"",
+      "isbn": "\"830829210\"",
+      "publicationDate": "\"2009-02-21\"",
+      "createdAt": "2025-05-04T16:01:26.751Z",
+      "updatedAt": "2025-05-04T16:01:26.751Z",
+      "id": 42,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/42"
+        }
+      ]
+    },
+    {
+      "title": "\"The Brazilian Jiu Jitsu Globe Trotter\"",
+      "author": "\"Christian Gaugart\"",
+      "isbn": "\"1479104523\"",
+      "publicationDate": "\"2012-11-13\"",
+      "createdAt": "2025-05-04T16:01:26.766Z",
+      "updatedAt": "2025-05-04T16:01:26.766Z",
+      "id": 43,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/43"
+        }
+      ]
+    },
+    {
+      "title": "Satchel: The Life and Times of an American Legend",
+      "author": "Larry Tye",
+      "isbn": "812977971",
+      "publicationDate": "2010-05-04",
+      "createdAt": "2025-05-04T16:04:34.984Z",
+      "updatedAt": "2025-05-04T16:04:34.984Z",
+      "id": 44,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/44"
+        }
+      ]
+    },
+    {
+      "title": "Writing To Learn",
+      "author": "William Zinsser",
+      "isbn": "62720406",
+      "publicationDate": "1993-06-04",
+      "createdAt": "2025-05-04T16:04:35.000Z",
+      "updatedAt": "2025-05-04T16:04:35.000Z",
+      "id": 45,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/45"
+        }
+      ]
+    },
+    {
+      "title": "John Calvin: A Pilgrim's Life",
+      "author": "Herman J. Selderhuis",
+      "isbn": "830829210",
+      "publicationDate": "2009-02-21",
+      "createdAt": "2025-05-04T16:04:35.015Z",
+      "updatedAt": "2025-05-04T16:04:35.015Z",
+      "id": 46,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/46"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2025-05-04T16:04:35.029Z",
+      "updatedAt": "2025-05-04T16:04:35.029Z",
+      "id": 47,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/47"
+        }
+      ]
+    },
+    {
+      "title": "Satchel: The Life and Times of an American Legend",
+      "author": "Larry Tye",
+      "isbn": "812977971",
+      "publicationDate": "2010-05-04",
+      "createdAt": "2025-05-04T16:05:06.443Z",
+      "updatedAt": "2025-05-04T16:05:06.443Z",
+      "id": 48,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/48"
+        }
+      ]
+    },
+    {
+      "title": "Writing To Learn",
+      "author": "William Zinsser",
+      "isbn": "62720406",
+      "publicationDate": "1993-06-04",
+      "createdAt": "2025-05-04T16:05:06.458Z",
+      "updatedAt": "2025-05-04T16:05:06.458Z",
+      "id": 49,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/49"
+        }
+      ]
+    },
+    {
+      "title": "John Calvin: A Pilgrim's Life",
+      "author": "Herman J. Selderhuis",
+      "isbn": "830829210",
+      "publicationDate": "2009-02-21",
+      "createdAt": "2025-05-04T16:05:06.473Z",
+      "updatedAt": "2025-05-04T16:05:06.473Z",
+      "id": 50,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/50"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2025-05-04T16:05:06.488Z",
+      "updatedAt": "2025-05-04T16:05:06.488Z",
+      "id": 51,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/51"
+        }
+      ]
+    },
+    {
+      "title": "Satchel: The Life and Times of an American Legend",
+      "author": "Larry Tye",
+      "isbn": "812977971",
+      "publicationDate": "2010-05-04",
+      "createdAt": "2025-05-04T16:05:23.176Z",
+      "updatedAt": "2025-05-04T16:05:23.176Z",
+      "id": 52,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/52"
+        }
+      ]
+    },
+    {
+      "title": "Writing To Learn",
+      "author": "William Zinsser",
+      "isbn": "62720406",
+      "publicationDate": "1993-06-04",
+      "createdAt": "2025-05-04T16:05:23.190Z",
+      "updatedAt": "2025-05-04T16:05:23.190Z",
+      "id": 53,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/53"
+        }
+      ]
+    },
+    {
+      "title": "John Calvin: A Pilgrim's Life",
+      "author": "Herman J. Selderhuis",
+      "isbn": "830829210",
+      "publicationDate": "2009-02-21",
+      "createdAt": "2025-05-04T16:05:23.204Z",
+      "updatedAt": "2025-05-04T16:05:23.204Z",
+      "id": 54,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/54"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2025-05-04T16:05:23.219Z",
+      "updatedAt": "2025-05-04T16:05:23.219Z",
+      "id": 55,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/55"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2025-05-04T16:05:23.234Z",
+      "updatedAt": "2025-05-04T16:05:23.234Z",
+      "id": 56,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/56"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2025-05-04T16:05:23.248Z",
+      "updatedAt": "2025-05-04T16:05:23.248Z",
+      "id": 57,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/57"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2025-05-04T16:05:23.263Z",
+      "updatedAt": "2025-05-04T16:05:23.263Z",
+      "id": 58,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/58"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2025-05-04T16:05:23.278Z",
+      "updatedAt": "2025-05-04T16:05:23.278Z",
+      "id": 59,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/59"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2025-05-04T16:05:23.293Z",
+      "updatedAt": "2025-05-04T16:05:23.293Z",
+      "id": 60,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/60"
+        }
+      ]
+    },
+    {
+      "title": "The Brazilian Jiu Jitsu Globe Trotter",
+      "author": "Christian Gaugart",
+      "isbn": "1479104523",
+      "publicationDate": "2012-11-13",
+      "createdAt": "2025-05-04T16:05:23.308Z",
+      "updatedAt": "2025-05-04T16:05:23.308Z",
+      "id": 61
     }
   ],
   "households": [
@@ -592,6 +1093,246 @@
       "createdAt": "2021-07-10T23:52:56.361Z",
       "updatedAt": "2021-07-10T23:52:56.361Z",
       "id": 18
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T13:35:59.558Z",
+      "updatedAt": "2025-05-04T13:35:59.558Z",
+      "id": 19,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/19"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T13:50:44.696Z",
+      "updatedAt": "2025-05-04T13:50:44.696Z",
+      "id": 20,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/20"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T14:16:18.618Z",
+      "updatedAt": "2025-05-04T14:16:18.618Z",
+      "id": 21,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/21"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T14:27:20.540Z",
+      "updatedAt": "2025-05-04T14:27:20.540Z",
+      "id": 22,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/22"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T14:36:45.875Z",
+      "updatedAt": "2025-05-04T14:36:45.875Z",
+      "id": 23,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/23"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T14:38:06.835Z",
+      "updatedAt": "2025-05-04T14:38:06.835Z",
+      "id": 24,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/24"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T14:42:51.967Z",
+      "updatedAt": "2025-05-04T14:42:51.967Z",
+      "id": 25,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/25"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T14:47:46.922Z",
+      "updatedAt": "2025-05-04T14:47:46.922Z",
+      "id": 26,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/26"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T14:51:08.662Z",
+      "updatedAt": "2025-05-04T14:51:08.662Z",
+      "id": 27,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/27"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T14:52:13.797Z",
+      "updatedAt": "2025-05-04T14:52:13.797Z",
+      "id": 28,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/28"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T14:56:50.456Z",
+      "updatedAt": "2025-05-04T14:56:50.456Z",
+      "id": 29,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/29"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T15:02:26.973Z",
+      "updatedAt": "2025-05-04T15:02:26.973Z",
+      "id": 30,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/30"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T15:02:57.380Z",
+      "updatedAt": "2025-05-04T15:02:57.380Z",
+      "id": 31,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/31"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T15:05:18.635Z",
+      "updatedAt": "2025-05-04T15:05:18.635Z",
+      "id": 32,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/32"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T15:18:51.183Z",
+      "updatedAt": "2025-05-04T15:18:51.183Z",
+      "id": 33,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/33"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T15:19:34.053Z",
+      "updatedAt": "2025-05-04T15:19:34.053Z",
+      "id": 34,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/34"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T15:38:32.755Z",
+      "updatedAt": "2025-05-04T15:38:32.755Z",
+      "id": 35,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/35"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T15:39:05.792Z",
+      "updatedAt": "2025-05-04T15:39:05.792Z",
+      "id": 36,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/36"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T15:39:26.371Z",
+      "updatedAt": "2025-05-04T15:39:26.371Z",
+      "id": 37,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/37"
+        }
+      ]
+    },
+    {
+      "name": "New Household",
+      "createdAt": "2025-05-04T15:40:41.475Z",
+      "updatedAt": "2025-05-04T15:40:41.475Z",
+      "id": 38,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/38"
+        }
+      ]
     }
   ],
   "users": [
@@ -1166,6 +1907,534 @@
           "href": "http://localhost:3000/users/36"
         }
       ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 19,
+      "createdAt": "2025-05-04T13:41:01.493Z",
+      "updatedAt": "2025-05-04T13:41:01.493Z",
+      "wishlistId": 37,
+      "id": 37,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/37"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 19,
+      "createdAt": "2025-05-04T13:44:25.360Z",
+      "updatedAt": "2025-05-04T13:44:25.360Z",
+      "wishlistId": 38,
+      "id": 38,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/38"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 19,
+      "createdAt": "2025-05-04T13:50:47.988Z",
+      "updatedAt": "2025-05-04T13:50:47.988Z",
+      "wishlistId": 39,
+      "id": 39,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/39"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 19,
+      "createdAt": "2025-05-04T13:50:50.764Z",
+      "updatedAt": "2025-05-04T13:50:50.764Z",
+      "wishlistId": 40,
+      "id": 40,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/40"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 19,
+      "createdAt": "2025-05-04T14:27:20.560Z",
+      "updatedAt": "2025-05-04T14:27:20.560Z",
+      "wishlistId": 41,
+      "id": 41,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/41"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 19,
+      "createdAt": "2025-05-04T14:27:20.577Z",
+      "updatedAt": "2025-05-04T14:27:20.577Z",
+      "wishlistId": 42,
+      "id": 42,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/42"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 25,
+      "createdAt": "2025-05-04T14:46:51.226Z",
+      "updatedAt": "2025-05-04T14:46:51.226Z",
+      "wishlistId": 43,
+      "id": 43,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/43"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 25,
+      "createdAt": "2025-05-04T14:47:08.145Z",
+      "updatedAt": "2025-05-04T14:47:08.145Z",
+      "wishlistId": 44,
+      "id": 44,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/44"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 25,
+      "createdAt": "2025-05-04T14:47:46.936Z",
+      "updatedAt": "2025-05-04T14:47:46.936Z",
+      "wishlistId": 45,
+      "id": 45,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/45"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 25,
+      "createdAt": "2025-05-04T14:47:46.960Z",
+      "updatedAt": "2025-05-04T14:47:46.960Z",
+      "wishlistId": 46,
+      "id": 46,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/46"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 25,
+      "createdAt": "2025-05-04T14:49:47.314Z",
+      "updatedAt": "2025-05-04T14:49:47.314Z",
+      "wishlistId": 47,
+      "id": 47,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/47"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 27,
+      "createdAt": "2025-05-04T14:51:08.685Z",
+      "updatedAt": "2025-05-04T14:51:08.685Z",
+      "wishlistId": 48,
+      "id": 48,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/48"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 27,
+      "createdAt": "2025-05-04T14:51:08.701Z",
+      "updatedAt": "2025-05-04T14:51:08.701Z",
+      "wishlistId": 49,
+      "id": 49,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/49"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 28,
+      "createdAt": "2025-05-04T14:52:13.819Z",
+      "updatedAt": "2025-05-04T14:52:13.819Z",
+      "wishlistId": 50,
+      "id": 50,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/50"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 28,
+      "createdAt": "2025-05-04T14:52:13.836Z",
+      "updatedAt": "2025-05-04T14:52:13.836Z",
+      "wishlistId": 51,
+      "id": 51,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/51"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 29,
+      "createdAt": "2025-05-04T14:56:50.479Z",
+      "updatedAt": "2025-05-04T14:56:50.479Z",
+      "wishlistId": 52,
+      "id": 52,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/52"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 29,
+      "createdAt": "2025-05-04T14:56:50.496Z",
+      "updatedAt": "2025-05-04T14:56:50.496Z",
+      "wishlistId": 53,
+      "id": 53,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/53"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 31,
+      "createdAt": "2025-05-04T15:02:57.612Z",
+      "updatedAt": "2025-05-04T15:02:57.612Z",
+      "wishlistId": 54,
+      "id": 54,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/54"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 31,
+      "createdAt": "2025-05-04T15:02:57.836Z",
+      "updatedAt": "2025-05-04T15:02:57.836Z",
+      "wishlistId": 55,
+      "id": 55,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/55"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 32,
+      "createdAt": "2025-05-04T15:05:19.682Z",
+      "updatedAt": "2025-05-04T15:05:19.682Z",
+      "wishlistId": 56,
+      "id": 56,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/56"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 32,
+      "createdAt": "2025-05-04T15:05:20.716Z",
+      "updatedAt": "2025-05-04T15:05:20.716Z",
+      "wishlistId": 57,
+      "id": 57,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/57"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 33,
+      "createdAt": "2025-05-04T15:18:56.224Z",
+      "updatedAt": "2025-05-04T15:18:56.224Z",
+      "wishlistId": 58,
+      "id": 58,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/58"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 33,
+      "createdAt": "2025-05-04T15:19:01.255Z",
+      "updatedAt": "2025-05-04T15:19:01.255Z",
+      "wishlistId": 59,
+      "id": 59,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/59"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 34,
+      "createdAt": "2025-05-04T15:19:39.106Z",
+      "updatedAt": "2025-05-04T15:19:39.106Z",
+      "wishlistId": 60,
+      "id": 60,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/60"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 34,
+      "createdAt": "2025-05-04T15:19:44.137Z",
+      "updatedAt": "2025-05-04T15:19:44.137Z",
+      "wishlistId": 61,
+      "id": 61,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/61"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 35,
+      "createdAt": "2025-05-04T15:38:37.792Z",
+      "updatedAt": "2025-05-04T15:38:37.792Z",
+      "wishlistId": 62,
+      "id": 62,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/62"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 35,
+      "createdAt": "2025-05-04T15:38:42.820Z",
+      "updatedAt": "2025-05-04T15:38:42.820Z",
+      "wishlistId": 63,
+      "id": 63,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/63"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 36,
+      "createdAt": "2025-05-04T15:39:06.323Z",
+      "updatedAt": "2025-05-04T15:39:06.323Z",
+      "wishlistId": 64,
+      "id": 64,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/64"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 36,
+      "createdAt": "2025-05-04T15:39:06.853Z",
+      "updatedAt": "2025-05-04T15:39:06.853Z",
+      "wishlistId": 65,
+      "id": 65,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/65"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 37,
+      "createdAt": "2025-05-04T15:39:26.712Z",
+      "updatedAt": "2025-05-04T15:39:26.712Z",
+      "wishlistId": 66,
+      "id": 66,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/66"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 37,
+      "createdAt": "2025-05-04T15:39:27.043Z",
+      "updatedAt": "2025-05-04T15:39:27.043Z",
+      "wishlistId": 67,
+      "id": 67,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/67"
+        }
+      ]
+    },
+    {
+      "email": "asd@asd.com",
+      "firstName": "samndajs",
+      "lastName": "jdsakjhd",
+      "householdId": 38,
+      "createdAt": "2025-05-04T15:40:41.816Z",
+      "updatedAt": "2025-05-04T15:40:41.816Z",
+      "wishlistId": 68,
+      "id": 68,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/68"
+        }
+      ]
+    },
+    {
+      "email": "dfd@cvb.com",
+      "firstName": "fdgfsdhdj",
+      "lastName": "aaaaaacgfdg",
+      "householdId": 38,
+      "createdAt": "2025-05-04T15:40:42.147Z",
+      "updatedAt": "2025-05-04T15:40:42.147Z",
+      "wishlistId": 69,
+      "id": 69,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/69"
+        }
+      ]
     }
   ],
   "accounts": [
@@ -1394,6 +2663,225 @@
       "name": "Nate's List",
       "books": [],
       "id": 36
+    },
+    {
+      "name": "samndajs's List",
+      "books": [],
+      "id": 37
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [],
+      "id": 38
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 39
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 40
+    },
+    {
+      "name": "samndajs's List",
+      "books": [],
+      "id": 41
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [],
+      "id": 42
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 43
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [],
+      "id": 44
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 45
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 46
+    },
+    {
+      "name": "samndajs's List",
+      "books": [],
+      "id": 47
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 48
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 49
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 50
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 51
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 52
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 53
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 54
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 55
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 56
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 57
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 58
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 59
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 60
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 61
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 62
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 63
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 64
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 65
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 66
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 67
+    },
+    {
+      "name": "samndajs's List",
+      "books": [
+        1
+      ],
+      "id": 68
+    },
+    {
+      "name": "fdgfsdhdj's List",
+      "books": [
+        2
+      ],
+      "id": 69
     }
   ]
 }
